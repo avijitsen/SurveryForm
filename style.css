@@ -1,0 +1,92 @@
+
+
+.project_name{
+    margin: 50px;
+}
+#title{
+    color: rgb(110, 110, 187);
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 50px;
+    
+}
+#description{
+    text-align: center;
+    margin-top: 0;
+   
+   
+}
+
+
+.survey_box{
+    background-color: rgb(110, 110, 187);
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 5px;
+   
+}
+.survey_box h2{
+    opacity: 1;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+}
+.input_box{
+    margin: 0 10px 15px 0px;
+    width: 99%;
+    height: 30px;
+    padding-left: 10px;
+    border-radius: 5px;
+    border-color: blanchedalmond;
+    border: 1px;   
+}
+
+
+
+.selection_box{
+    width: 100%;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px white;
+    color: rgb(119, 118, 118);
+    padding-left: 10px;
+    padding-top: 4px;
+}
+.radio_btn{
+    font-size: 25px;
+    color: white;
+    padding-left: 10px;
+    
+}
+h2{
+    padding-top: 10px;
+}
+.text_area{
+    width: 99%;
+    height: 100px;
+    border-radius: 5px;
+    border: 1px;
+    text-align: start;
+    padding-left: 15px;
+    padding-top: 0;
+}
+.submit_btn{
+    width: 300px;
+    height: 40px;
+    font-size: 20px;
+    color: white;
+    background-color: turquoise;
+    border: 1px;
+    border-radius: 5px;
+    margin-top: 20px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;  
+}
+.submit_btn:hover{
+    background-color: teal;
+    transition-duration: 1s;
+}
